@@ -10,5 +10,5 @@
   - :snake: Python
   - :computer: Bash
   - ⚡ NodeJS
-  - :link: **[My Blog](https://sethbergman.tech)**
+  - :link: **[My Blog](https://bergmantechnologies.com)**
   
